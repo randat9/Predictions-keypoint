@@ -6,7 +6,9 @@ The aim of this project is to deploy the machine learning model to predictions p
 ## Build with 
 
 Python
+
 Tensorflow
+
 OpenCV
 
 
